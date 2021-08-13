@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Dani Herrera StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=842935&layout=compact)](https://stackoverflow.com/users/842935/dani-herrera)
 
 <!--
 **ctrl-alt-d/ctrl-alt-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
